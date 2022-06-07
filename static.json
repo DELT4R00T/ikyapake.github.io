@@ -1,3 +1,7 @@
 { 
-   "root": "index.html" 
+   "root": "assets",
+   "clean_urls": true,
+   "https_only": true,
+   "error_page": "apake.html"
+   
 }
